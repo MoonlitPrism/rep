@@ -1,0 +1,5 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.2
+  rcc qml.qrc
+  qrc_qml.cpp
+  Карточка объекта учёта QML.vcxproj -> C:\Users\darks\source\repos\MoonlitPrism\rep\Карточка объекта учёта QML\x64\Debug\Карточка объекта учёта QML.exe
